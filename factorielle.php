@@ -1,4 +1,8 @@
 <?php
+
+// test pour modification
+// encore une ligne.............
+
 $valeur_entree = readline("entrez un nombre entier superieur Ã  zero\n");
 $valeur_affichage = $valeur_entree;
 $valeur_entree = factorielle($valeur_entree);
